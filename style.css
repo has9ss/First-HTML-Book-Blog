@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
+}
+  
+    div {
+      background-color: rgb(102, 102, 250); 
+    }
+
+    body {
+      background-color: darkgrey;
+
+      color: rgb(50, 16, 16);
+
+    }
+
+    p {
+      font-family: "arial" , sans-serif; 
+    }
+    
+    ul {
+      font-family: "arial" , sans-serif;
+    } 
+      
+    h1 {
+      font-family: "monaco" , monospace;
+      
+    }
+    h1 {
+      color: red;
+    }
+    h3 {
+      font-family: "Bradley Hand" , cursive;
+    }
+
+.image-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-row img {
+  width: 30%;
+  height: auto;
+}
+
+body {
+  background-color: darkgrey; 
+  color: rgb(50, 16, 16);
+  border: 5px solid black;
+  margin: 1px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.certification {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+      
+    
+    
+    
+  
